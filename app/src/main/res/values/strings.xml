@@ -1,0 +1,9 @@
+<resources>
+   <string name="app_name">msanii</string>
+    <string name="why_talent_pay"> In order to avoid fake users and create a serious platform for serious Talents,we require talents to pay $1 for the first year they register and $1/year for the following years.for more info,Check our terms and policy </string>
+<string-array name="gender">
+    <item>male</item>
+    <item>female</item>
+    <item>other</item>
+</string-array>
+</resources>
